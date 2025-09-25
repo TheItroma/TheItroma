@@ -1,6 +1,10 @@
 ## Hey
 ### How's it going
-I just wanted a banner, everyone has one, I felt left out
+####I just wanted a banner, everyone has one, I felt left out
+also, if you make a FOSH project, please, at least **PROVIDE STEP FILES!!**. 
+STL's aren't meant for modification, they're meant for printing
+
+Learning rust, trying to fork hardware for some reason, freecad really isn't intuitive
 <!--
 **TheItroma/TheItroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
