@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hey
+### How's it going
+I just wanted a banner, everyone has one, I felt left out
 <!--
 **TheItroma/TheItroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
