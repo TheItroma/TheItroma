@@ -1,6 +1,6 @@
 ## Hey
 ### How's it going
-####I just wanted a banner, everyone has one, I felt left out
+#### I just wanted a banner, everyone has one, I felt left out
 also, if you make a FOSH project, please, at least **PROVIDE STEP FILES!!**. 
 STL's aren't meant for modification, they're meant for printing
 
